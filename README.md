@@ -7,10 +7,18 @@
 
 # WireFrames
 
+<details>
+
+ <summary>Desktop Wireframe</summary>
+
+![Desktop Wireframe](images/ToDoWireframe.png)
+ </details>
+
 # Features
 
 # Technologies Used
 * HTML
+* Python
 * Flask
 * SQLAlchemy
 * Semantic UI
